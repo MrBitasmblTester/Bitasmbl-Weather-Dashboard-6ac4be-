@@ -1,0 +1,1 @@
+type P={data:any[]};export function Charts({data}:P){return(<div>Charts placeholder</div>);} 
