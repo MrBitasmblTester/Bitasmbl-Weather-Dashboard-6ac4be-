@@ -1,0 +1,1 @@
+type P={onSearch:(c:string)=>void};export function SearchBar({onSearch}:P){return(<input onKeyDown={e=>e.key==='Enter'&&onSearch((e.target as HTMLInputElement).value)}/>);} 
