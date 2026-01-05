@@ -1,0 +1,1 @@
+public class WeatherCache{public object? Get(string k)=>null;public void Set(string k,object v,TimeSpan t){} }
