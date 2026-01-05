@@ -1,0 +1,1 @@
+public class WeatherQuery{public object Current(string city)=>default!;public object Forecast(string city)=>default!;} 
