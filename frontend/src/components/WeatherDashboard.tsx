@@ -1,0 +1,1 @@
+export function WeatherDashboard(){return(<div>Current and forecast here</div>);} 
