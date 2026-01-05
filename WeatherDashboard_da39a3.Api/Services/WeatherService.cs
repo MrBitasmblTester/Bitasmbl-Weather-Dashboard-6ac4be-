@@ -1,0 +1,1 @@
+public class WeatherService{public Task<object> GetCurrentAsync(string city)=>Task.FromResult((object)new{});}
