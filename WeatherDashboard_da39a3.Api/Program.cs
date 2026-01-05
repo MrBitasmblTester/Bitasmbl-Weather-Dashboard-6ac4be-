@@ -1,0 +1,1 @@
+var builder=WebApplication.CreateBuilder(args);var app=builder.Build();app.MapGet("/",()=>"WeatherDashboard_da39a3 API");app.Run();
