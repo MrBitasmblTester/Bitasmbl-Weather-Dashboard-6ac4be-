@@ -1,0 +1,1 @@
+public static class SchemaConfig{public static void AddWeatherSchema(IServiceCollection s){/*register*/}}
